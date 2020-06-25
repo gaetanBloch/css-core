@@ -1,3 +1,8 @@
 section {
-  background: #FF1B68;
+  background: #ff1b68;
+}
+
+h1 {
+  color: white;
+  font-family: 'Anton', sans-serif;
 }
