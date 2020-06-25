@@ -7,3 +7,7 @@ code {
   font-family: monospace;
   color: red;
 }
+
+li.green code {
+  color: green;
+}
