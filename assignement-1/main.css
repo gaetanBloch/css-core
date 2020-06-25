@@ -2,8 +2,7 @@ body {
   font-family: sans-serif;
 }
 
-h1 {
-  font-family: sans-serif;
+#assignment-instructions {
   color: teal;
 }
 
@@ -16,7 +15,7 @@ li.green code {
   color: green;
 }
 
-/** + li {*/
+/*li + li {*/
 /*  background-color: black;*/
 /*  color: white;*/
 /*}*/
