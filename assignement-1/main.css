@@ -15,3 +15,8 @@ code {
 li.green code {
   color: green;
 }
+
+* + li {
+  background-color: black;
+  color: white;
+}
